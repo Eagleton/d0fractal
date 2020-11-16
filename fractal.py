@@ -130,3 +130,4 @@ if __name__ == '__main__':
     # draw_sierpinski_carpet_image(729, 729, False)
 
     print('OK.')
+    print('1116test')
