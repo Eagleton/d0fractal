@@ -130,5 +130,10 @@ if __name__ == '__main__':
     # draw_sierpinski_carpet_image(729, 729, False)
 
     print('OK.')
+<<<<<<< HEAD
     print("It is OK")
-    print('what')
+    print('aaaaaaaaaaaaaaa')
+=======
+    print('1116test')
+    print('aaaaaaaaaaaaaaa')
+>>>>>>> lxc
